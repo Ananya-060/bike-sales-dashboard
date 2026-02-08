@@ -3,6 +3,11 @@
 This project presents an interactive sales dashboard built using the Bike Buyers dataset.
 The goal of the analysis is to understand how customer demographics and behavioral factors influence bike purchasing decisions.
 
+## Dashboard Preview
+
+![Bike Sales Dashboard](dashboard.png)
+
+
 ## Data Preparation
 - Removed duplicate records to ensure data accuracy
 - Standardized categorical values for better readability (e.g., gender and marital status)
