@@ -32,6 +32,7 @@ These filters enable users to explore trends and compare purchasing behavior acr
 - Middle-aged customers accounted for a higher number of bike purchases compared to older age groups.
 - Customers with higher average income showed a greater likelihood of purchasing a bike.
 - Male customers generally have higher average income than female customers, regardless of purchase status.
+- Commute distance influences the bike purchase, moderate commute ranges show higher purchase counts.
 
 ## Tools Used
 - Microsoft Excel
